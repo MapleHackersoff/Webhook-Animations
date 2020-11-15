@@ -1,4 +1,6 @@
 # Webhook-Animations
+![ik your here to learn how to embed photos lol](https://i.imgur.com/CaQNJvY.gif)
+
 A lil concept I had in my mind, basic script that essentially does stopmotion through webhooks
 
 By all means change the avatarlinks.txt to your links, to make the k bounce like in the video, I used
